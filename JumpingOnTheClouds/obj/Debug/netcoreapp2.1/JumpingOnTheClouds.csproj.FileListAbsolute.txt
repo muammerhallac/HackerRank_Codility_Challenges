@@ -1,0 +1,11 @@
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\bin\Debug\netcoreapp2.1\JumpingOnTheClouds.deps.json
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\bin\Debug\netcoreapp2.1\JumpingOnTheClouds.runtimeconfig.json
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\bin\Debug\netcoreapp2.1\JumpingOnTheClouds.runtimeconfig.dev.json
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\bin\Debug\netcoreapp2.1\JumpingOnTheClouds.dll
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\bin\Debug\netcoreapp2.1\JumpingOnTheClouds.pdb
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\obj\Debug\netcoreapp2.1\JumpingOnTheClouds.csproj.CoreCompileInputs.cache
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\obj\Debug\netcoreapp2.1\JumpingOnTheClouds.AssemblyInfoInputs.cache
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\obj\Debug\netcoreapp2.1\JumpingOnTheClouds.AssemblyInfo.cs
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\obj\Debug\netcoreapp2.1\JumpingOnTheClouds.dll
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\obj\Debug\netcoreapp2.1\JumpingOnTheClouds.pdb
+E:\Projects\hackerrank_samples\JumpingOnTheClouds\obj\Debug\netcoreapp2.1\JumpingOnTheClouds.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Projects\hackerrank_samples\SuperReducedString\bin\Debug\netcoreapp2.1\SuperReducedString.deps.json
+E:\Projects\hackerrank_samples\SuperReducedString\bin\Debug\netcoreapp2.1\SuperReducedString.runtimeconfig.json
+E:\Projects\hackerrank_samples\SuperReducedString\bin\Debug\netcoreapp2.1\SuperReducedString.runtimeconfig.dev.json
+E:\Projects\hackerrank_samples\SuperReducedString\bin\Debug\netcoreapp2.1\SuperReducedString.dll
+E:\Projects\hackerrank_samples\SuperReducedString\bin\Debug\netcoreapp2.1\SuperReducedString.pdb
+E:\Projects\hackerrank_samples\SuperReducedString\obj\Debug\netcoreapp2.1\SuperReducedString.csproj.CoreCompileInputs.cache
+E:\Projects\hackerrank_samples\SuperReducedString\obj\Debug\netcoreapp2.1\SuperReducedString.AssemblyInfoInputs.cache
+E:\Projects\hackerrank_samples\SuperReducedString\obj\Debug\netcoreapp2.1\SuperReducedString.AssemblyInfo.cs
+E:\Projects\hackerrank_samples\SuperReducedString\obj\Debug\netcoreapp2.1\SuperReducedString.dll
+E:\Projects\hackerrank_samples\SuperReducedString\obj\Debug\netcoreapp2.1\SuperReducedString.pdb
+E:\Projects\hackerrank_samples\SuperReducedString\obj\Debug\netcoreapp2.1\SuperReducedString.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\bin\Debug\netcoreapp2.1\Sockmerchant.deps.json
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\bin\Debug\netcoreapp2.1\Sockmerchant.runtimeconfig.json
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\bin\Debug\netcoreapp2.1\Sockmerchant.runtimeconfig.dev.json
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\bin\Debug\netcoreapp2.1\Sockmerchant.dll
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\bin\Debug\netcoreapp2.1\Sockmerchant.pdb
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\obj\Debug\netcoreapp2.1\Sockmerchant.csprojAssemblyReference.cache
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\obj\Debug\netcoreapp2.1\Sockmerchant.csproj.CoreCompileInputs.cache
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\obj\Debug\netcoreapp2.1\Sockmerchant.AssemblyInfoInputs.cache
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\obj\Debug\netcoreapp2.1\Sockmerchant.AssemblyInfo.cs
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\obj\Debug\netcoreapp2.1\Sockmerchant.dll
+E:\Projects\hackerrank_samples\Sockmerchant\Sockmerchant\Sockmerchant\obj\Debug\netcoreapp2.1\Sockmerchant.pdb
