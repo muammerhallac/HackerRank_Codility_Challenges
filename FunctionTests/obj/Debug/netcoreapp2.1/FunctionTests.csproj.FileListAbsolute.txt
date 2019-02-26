@@ -24,3 +24,6 @@ E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\FindOddNumb
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\FindOddNumber.pdb
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\SuperReducedString.dll
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\SuperReducedString.pdb
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\GeneratePrimes.exe
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\GeneratePrimes.pdb
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\GeneratePrimes.exe.config

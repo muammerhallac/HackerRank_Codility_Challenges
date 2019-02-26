@@ -1676,6 +1676,15 @@
           "bin/placeholder/FindOddNumber.dll": {}
         }
       },
+      "GeneratePrimes/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/GeneratePrimes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeneratePrimes.dll": {}
+        }
+      },
       "JumpingOnTheClouds/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -5810,6 +5819,11 @@
       "path": "../FindOddNumber/FindOddNumber.csproj",
       "msbuildProject": "../FindOddNumber/FindOddNumber.csproj"
     },
+    "GeneratePrimes/1.0.0": {
+      "type": "project",
+      "path": "../GeneratePrimes/GeneratePrimes.csproj",
+      "msbuildProject": "../GeneratePrimes/GeneratePrimes.csproj"
+    },
     "JumpingOnTheClouds/1.0.0": {
       "type": "project",
       "path": "../JumpingOnTheClouds/JumpingOnTheClouds.csproj",
@@ -5826,6 +5840,7 @@
       "BinaryGaps >= 1.0.0",
       "CountingValley >= 1.0.0",
       "FindOddNumber >= 1.0.0",
+      "GeneratePrimes >= 1.0.0",
       "JumpingOnTheClouds >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -5872,6 +5887,9 @@
             },
             "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj"
+            },
+            "E:\\Projects\\hackerrank_samples\\GeneratePrimes\\GeneratePrimes.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\GeneratePrimes\\GeneratePrimes.csproj"
             },
             "E:\\Projects\\hackerrank_samples\\JumpingOnTheClouds\\JumpingOnTheClouds.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\JumpingOnTheClouds\\JumpingOnTheClouds.csproj"
