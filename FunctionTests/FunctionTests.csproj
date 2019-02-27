@@ -16,6 +16,7 @@
     <ProjectReference Include="..\BinaryGaps\BinaryGaps.csproj" />
     <ProjectReference Include="..\CountingValley\CountingValley.csproj" />
     <ProjectReference Include="..\FindOddNumber\FindOddNumber.csproj" />
+    <ProjectReference Include="..\FormingAMagicSquare\FormingAMagicSquare.csproj" />
     <ProjectReference Include="..\GeneratePrimes\GeneratePrimes.csproj" />
     <ProjectReference Include="..\JumpingOnTheClouds\JumpingOnTheClouds.csproj" />
     <ProjectReference Include="..\SuperReducedString\SuperReducedString.csproj" />

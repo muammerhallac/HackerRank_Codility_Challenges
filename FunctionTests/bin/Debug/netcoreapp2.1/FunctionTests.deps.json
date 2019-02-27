@@ -11,6 +11,7 @@
           "BinaryGaps": "1.0.0",
           "CountingValley": "1.0.0",
           "FindOddNumber": "1.0.0",
+          "FormingAMagicSquare": "1.0.0",
           "GeneratePrimes": "1.0.0",
           "JumpingOnTheClouds": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.8.0",
@@ -1052,6 +1053,11 @@
           "FindOddNumber.dll": {}
         }
       },
+      "FormingAMagicSquare/1.0.0": {
+        "runtime": {
+          "FormingAMagicSquare.dll": {}
+        }
+      },
       "GeneratePrimes/1.0.0": {
         "runtime": {
           "GeneratePrimes.exe": {}
@@ -1583,6 +1589,11 @@
       "sha512": ""
     },
     "FindOddNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormingAMagicSquare/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1676,6 +1676,16 @@
           "bin/placeholder/FindOddNumber.dll": {}
         }
       },
+      "FormingAMagicSquare/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/FormingAMagicSquare.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FormingAMagicSquare.dll": {}
+        }
+      },
       "GeneratePrimes/1.0.0": {
         "type": "project",
         "compile": {
@@ -5819,6 +5829,11 @@
       "path": "../FindOddNumber/FindOddNumber.csproj",
       "msbuildProject": "../FindOddNumber/FindOddNumber.csproj"
     },
+    "FormingAMagicSquare/1.0.0": {
+      "type": "project",
+      "path": "../FormingAMagicSquare/FormingAMagicSquare.csproj",
+      "msbuildProject": "../FormingAMagicSquare/FormingAMagicSquare.csproj"
+    },
     "GeneratePrimes/1.0.0": {
       "type": "project",
       "path": "../GeneratePrimes/GeneratePrimes.csproj",
@@ -5840,6 +5855,7 @@
       "BinaryGaps >= 1.0.0",
       "CountingValley >= 1.0.0",
       "FindOddNumber >= 1.0.0",
+      "FormingAMagicSquare >= 1.0.0",
       "GeneratePrimes >= 1.0.0",
       "JumpingOnTheClouds >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
@@ -5887,6 +5903,9 @@
             },
             "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj"
+            },
+            "E:\\Projects\\hackerrank_samples\\FormingAMagicSquare\\FormingAMagicSquare.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\FormingAMagicSquare\\FormingAMagicSquare.csproj"
             },
             "E:\\Projects\\hackerrank_samples\\GeneratePrimes\\GeneratePrimes.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\GeneratePrimes\\GeneratePrimes.csproj"

@@ -27,3 +27,5 @@ E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\SuperReduce
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\GeneratePrimes.exe
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\GeneratePrimes.pdb
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\GeneratePrimes.exe.config
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\FormingAMagicSquare.dll
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\FormingAMagicSquare.pdb
