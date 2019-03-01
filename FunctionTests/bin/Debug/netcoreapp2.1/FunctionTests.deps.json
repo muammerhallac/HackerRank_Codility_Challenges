@@ -10,6 +10,7 @@
         "dependencies": {
           "BinaryGaps": "1.0.0",
           "CountingValley": "1.0.0",
+          "CyclicRotation": "1.0.0",
           "FindOddNumber": "1.0.0",
           "FormingAMagicSquare": "1.0.0",
           "GeneratePrimes": "1.0.0",
@@ -1048,6 +1049,11 @@
           "CountingValley.dll": {}
         }
       },
+      "CyclicRotation/1.0.0": {
+        "runtime": {
+          "CyclicRotation.dll": {}
+        }
+      },
       "FindOddNumber/1.0.0": {
         "runtime": {
           "FindOddNumber.dll": {}
@@ -1584,6 +1590,11 @@
       "sha512": ""
     },
     "CountingValley/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CyclicRotation/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

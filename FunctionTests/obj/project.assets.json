@@ -1666,6 +1666,16 @@
           "bin/placeholder/CountingValley.dll": {}
         }
       },
+      "CyclicRotation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CyclicRotation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CyclicRotation.dll": {}
+        }
+      },
       "FindOddNumber/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -5824,6 +5834,11 @@
       "path": "../CountingValley/CountingValley.csproj",
       "msbuildProject": "../CountingValley/CountingValley.csproj"
     },
+    "CyclicRotation/1.0.0": {
+      "type": "project",
+      "path": "../CyclicRotation/CyclicRotation.csproj",
+      "msbuildProject": "../CyclicRotation/CyclicRotation.csproj"
+    },
     "FindOddNumber/1.0.0": {
       "type": "project",
       "path": "../FindOddNumber/FindOddNumber.csproj",
@@ -5854,6 +5869,7 @@
     ".NETCoreApp,Version=v2.1": [
       "BinaryGaps >= 1.0.0",
       "CountingValley >= 1.0.0",
+      "CyclicRotation >= 1.0.0",
       "FindOddNumber >= 1.0.0",
       "FormingAMagicSquare >= 1.0.0",
       "GeneratePrimes >= 1.0.0",
@@ -5900,6 +5916,9 @@
             },
             "E:\\Projects\\hackerrank_samples\\CountingValley\\CountingValley.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\CountingValley\\CountingValley.csproj"
+            },
+            "E:\\Projects\\hackerrank_samples\\CyclicRotation\\CyclicRotation.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\CyclicRotation\\CyclicRotation.csproj"
             },
             "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj"

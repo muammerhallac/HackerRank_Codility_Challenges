@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperReducedString", "Super
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratePrimes", "GeneratePrimes\GeneratePrimes.csproj", "{12221CAC-2CFF-46FB-86C8-47666C803481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormingAMagicSquare", "FormingAMagicSquare\FormingAMagicSquare.csproj", "{80BBEFD9-E7F6-4C8B-BA31-860E7255C6EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormingAMagicSquare", "FormingAMagicSquare\FormingAMagicSquare.csproj", "{80BBEFD9-E7F6-4C8B-BA31-860E7255C6EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{EB753216-B3EC-4944-B6CA-D606986493F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{80BBEFD9-E7F6-4C8B-BA31-860E7255C6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80BBEFD9-E7F6-4C8B-BA31-860E7255C6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80BBEFD9-E7F6-4C8B-BA31-860E7255C6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB753216-B3EC-4944-B6CA-D606986493F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB753216-B3EC-4944-B6CA-D606986493F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB753216-B3EC-4944-B6CA-D606986493F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB753216-B3EC-4944-B6CA-D606986493F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -29,3 +29,5 @@ E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\GeneratePri
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\GeneratePrimes.exe.config
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\FormingAMagicSquare.dll
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\FormingAMagicSquare.pdb
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\CyclicRotation.dll
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\CyclicRotation.pdb

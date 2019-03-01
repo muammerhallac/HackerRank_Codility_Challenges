@@ -15,6 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BinaryGaps\BinaryGaps.csproj" />
     <ProjectReference Include="..\CountingValley\CountingValley.csproj" />
+    <ProjectReference Include="..\CyclicRotation\CyclicRotation.csproj" />
     <ProjectReference Include="..\FindOddNumber\FindOddNumber.csproj" />
     <ProjectReference Include="..\FormingAMagicSquare\FormingAMagicSquare.csproj" />
     <ProjectReference Include="..\GeneratePrimes\GeneratePrimes.csproj" />
