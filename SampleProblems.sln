@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesAndMaps", "Dict
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapeEquilibrium", "TapeEquilibrium\TapeEquilibrium.csproj", "{810645EE-95DC-4C9E-BD28-A2664F187F5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermCheck", "PermCheck\PermCheck.csproj", "{C7341B40-6217-4DD5-AFC8-C89C0671F408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingInteger", "MissingInteger\MissingInteger.csproj", "{5EEBCEC1-5CE5-4961-A7A5-DD63D1837C0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{810645EE-95DC-4C9E-BD28-A2664F187F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{810645EE-95DC-4C9E-BD28-A2664F187F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{810645EE-95DC-4C9E-BD28-A2664F187F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7341B40-6217-4DD5-AFC8-C89C0671F408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7341B40-6217-4DD5-AFC8-C89C0671F408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7341B40-6217-4DD5-AFC8-C89C0671F408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7341B40-6217-4DD5-AFC8-C89C0671F408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEBCEC1-5CE5-4961-A7A5-DD63D1837C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEBCEC1-5CE5-4961-A7A5-DD63D1837C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEBCEC1-5CE5-4961-A7A5-DD63D1837C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEBCEC1-5CE5-4961-A7A5-DD63D1837C0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

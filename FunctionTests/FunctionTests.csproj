@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -22,6 +22,8 @@
     <ProjectReference Include="..\FormingAMagicSquare\FormingAMagicSquare.csproj" />
     <ProjectReference Include="..\GeneratePrimes\GeneratePrimes.csproj" />
     <ProjectReference Include="..\JumpingOnTheClouds\JumpingOnTheClouds.csproj" />
+    <ProjectReference Include="..\MissingInteger\MissingInteger.csproj" />
+    <ProjectReference Include="..\PermCheck\PermCheck.csproj" />
     <ProjectReference Include="..\Sockmerchant\Sockmerchant\Sockmerchant\Sockmerchant.csproj" />
     <ProjectReference Include="..\SuperReducedString\SuperReducedString.csproj" />
     <ProjectReference Include="..\TapeEquilibrium\TapeEquilibrium.csproj" />
