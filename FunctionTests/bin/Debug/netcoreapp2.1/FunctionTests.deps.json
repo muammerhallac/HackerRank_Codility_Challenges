@@ -9,15 +9,19 @@
       "FunctionTests/1.0.0": {
         "dependencies": {
           "BinaryGaps": "1.0.0",
+          "CompareTriplets": "1.0.0",
           "CountingValley": "1.0.0",
           "CyclicRotation": "1.0.0",
+          "DictionariesAndMaps": "1.0.0",
           "FindOddNumber": "1.0.0",
           "FormingAMagicSquare": "1.0.0",
           "GeneratePrimes": "1.0.0",
           "JumpingOnTheClouds": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.8.0",
           "NUnit3TestAdapter": "3.10.0",
+          "Sockmerchant": "1.0.0",
           "SuperReducedString": "1.0.0",
+          "TapeEquilibrium": "1.0.0",
           "NUnit": "3.10.1"
         },
         "runtime": {
@@ -1044,6 +1048,11 @@
           "BinaryGaps.dll": {}
         }
       },
+      "CompareTriplets/1.0.0": {
+        "runtime": {
+          "CompareTriplets.dll": {}
+        }
+      },
       "CountingValley/1.0.0": {
         "runtime": {
           "CountingValley.dll": {}
@@ -1052,6 +1061,11 @@
       "CyclicRotation/1.0.0": {
         "runtime": {
           "CyclicRotation.dll": {}
+        }
+      },
+      "DictionariesAndMaps/1.0.0": {
+        "runtime": {
+          "DictionariesAndMaps.dll": {}
         }
       },
       "FindOddNumber/1.0.0": {
@@ -1074,9 +1088,19 @@
           "JumpingOnTheClouds.dll": {}
         }
       },
+      "Sockmerchant/1.0.0": {
+        "runtime": {
+          "Sockmerchant.dll": {}
+        }
+      },
       "SuperReducedString/1.0.0": {
         "runtime": {
           "SuperReducedString.dll": {}
+        }
+      },
+      "TapeEquilibrium/1.0.0": {
+        "runtime": {
+          "TapeEquilibrium.dll": {}
         }
       }
     }
@@ -1589,12 +1613,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "CompareTriplets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CountingValley/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CyclicRotation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DictionariesAndMaps/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1619,7 +1653,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Sockmerchant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "SuperReducedString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TapeEquilibrium/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

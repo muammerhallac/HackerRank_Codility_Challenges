@@ -20,7 +20,7 @@ namespace FunctionTests
         [TestCase("aabba", "a")]
         [TestCase("aa", "Empty String")]
         [TestCase("bb", "Empty String")]
-        [TestCase("bbaaacaabb", "bac")]
+        [TestCase("bbbaaac", "bac")]
         public void ReduceString_WhenCalled_ShouldReturnExpectedResult(string testString, string expectedResult)
         {
             var result = SuperReducedString.Functions.ReduceString(testString);

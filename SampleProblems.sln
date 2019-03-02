@@ -25,6 +25,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormingAMagicSquare", "Form
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{EB753216-B3EC-4944-B6CA-D606986493F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesAndMaps", "DictionariesAndMaps\DictionariesAndMaps.csproj", "{D20735C8-0B9C-4C47-AE80-864AABF193C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapeEquilibrium", "TapeEquilibrium\TapeEquilibrium.csproj", "{810645EE-95DC-4C9E-BD28-A2664F187F5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{EB753216-B3EC-4944-B6CA-D606986493F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB753216-B3EC-4944-B6CA-D606986493F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB753216-B3EC-4944-B6CA-D606986493F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20735C8-0B9C-4C47-AE80-864AABF193C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20735C8-0B9C-4C47-AE80-864AABF193C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20735C8-0B9C-4C47-AE80-864AABF193C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20735C8-0B9C-4C47-AE80-864AABF193C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810645EE-95DC-4C9E-BD28-A2664F187F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810645EE-95DC-4C9E-BD28-A2664F187F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810645EE-95DC-4C9E-BD28-A2664F187F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810645EE-95DC-4C9E-BD28-A2664F187F5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

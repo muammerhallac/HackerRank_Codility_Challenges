@@ -1656,6 +1656,16 @@
           "bin/placeholder/BinaryGaps.dll": {}
         }
       },
+      "CompareTriplets/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CompareTriplets.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompareTriplets.dll": {}
+        }
+      },
       "CountingValley/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -1674,6 +1684,16 @@
         },
         "runtime": {
           "bin/placeholder/CyclicRotation.dll": {}
+        }
+      },
+      "DictionariesAndMaps/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DictionariesAndMaps.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DictionariesAndMaps.dll": {}
         }
       },
       "FindOddNumber/1.0.0": {
@@ -1715,6 +1735,16 @@
           "bin/placeholder/JumpingOnTheClouds.dll": {}
         }
       },
+      "Sockmerchant/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Sockmerchant.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sockmerchant.dll": {}
+        }
+      },
       "SuperReducedString/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -1723,6 +1753,16 @@
         },
         "runtime": {
           "bin/placeholder/SuperReducedString.dll": {}
+        }
+      },
+      "TapeEquilibrium/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TapeEquilibrium.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TapeEquilibrium.dll": {}
         }
       }
     }
@@ -5829,6 +5869,11 @@
       "path": "../BinaryGaps/BinaryGaps.csproj",
       "msbuildProject": "../BinaryGaps/BinaryGaps.csproj"
     },
+    "CompareTriplets/1.0.0": {
+      "type": "project",
+      "path": "../CompareTriplets/CompareTriplets/CompareTriplets.csproj",
+      "msbuildProject": "../CompareTriplets/CompareTriplets/CompareTriplets.csproj"
+    },
     "CountingValley/1.0.0": {
       "type": "project",
       "path": "../CountingValley/CountingValley.csproj",
@@ -5838,6 +5883,11 @@
       "type": "project",
       "path": "../CyclicRotation/CyclicRotation.csproj",
       "msbuildProject": "../CyclicRotation/CyclicRotation.csproj"
+    },
+    "DictionariesAndMaps/1.0.0": {
+      "type": "project",
+      "path": "../DictionariesAndMaps/DictionariesAndMaps.csproj",
+      "msbuildProject": "../DictionariesAndMaps/DictionariesAndMaps.csproj"
     },
     "FindOddNumber/1.0.0": {
       "type": "project",
@@ -5859,17 +5909,29 @@
       "path": "../JumpingOnTheClouds/JumpingOnTheClouds.csproj",
       "msbuildProject": "../JumpingOnTheClouds/JumpingOnTheClouds.csproj"
     },
+    "Sockmerchant/1.0.0": {
+      "type": "project",
+      "path": "../Sockmerchant/Sockmerchant/Sockmerchant/Sockmerchant.csproj",
+      "msbuildProject": "../Sockmerchant/Sockmerchant/Sockmerchant/Sockmerchant.csproj"
+    },
     "SuperReducedString/1.0.0": {
       "type": "project",
       "path": "../SuperReducedString/SuperReducedString.csproj",
       "msbuildProject": "../SuperReducedString/SuperReducedString.csproj"
+    },
+    "TapeEquilibrium/1.0.0": {
+      "type": "project",
+      "path": "../TapeEquilibrium/TapeEquilibrium.csproj",
+      "msbuildProject": "../TapeEquilibrium/TapeEquilibrium.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "BinaryGaps >= 1.0.0",
+      "CompareTriplets >= 1.0.0",
       "CountingValley >= 1.0.0",
       "CyclicRotation >= 1.0.0",
+      "DictionariesAndMaps >= 1.0.0",
       "FindOddNumber >= 1.0.0",
       "FormingAMagicSquare >= 1.0.0",
       "GeneratePrimes >= 1.0.0",
@@ -5877,7 +5939,9 @@
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.10.0",
+      "Sockmerchant >= 1.0.0",
       "SuperReducedString >= 1.0.0",
+      "TapeEquilibrium >= 1.0.0",
       "nunit >= 3.10.1"
     ]
   },
@@ -5914,11 +5978,17 @@
             "E:\\Projects\\hackerrank_samples\\BinaryGaps\\BinaryGaps.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\BinaryGaps\\BinaryGaps.csproj"
             },
+            "E:\\Projects\\hackerrank_samples\\CompareTriplets\\CompareTriplets\\CompareTriplets.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\CompareTriplets\\CompareTriplets\\CompareTriplets.csproj"
+            },
             "E:\\Projects\\hackerrank_samples\\CountingValley\\CountingValley.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\CountingValley\\CountingValley.csproj"
             },
             "E:\\Projects\\hackerrank_samples\\CyclicRotation\\CyclicRotation.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\CyclicRotation\\CyclicRotation.csproj"
+            },
+            "E:\\Projects\\hackerrank_samples\\DictionariesAndMaps\\DictionariesAndMaps.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\DictionariesAndMaps\\DictionariesAndMaps.csproj"
             },
             "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj"
@@ -5932,8 +6002,14 @@
             "E:\\Projects\\hackerrank_samples\\JumpingOnTheClouds\\JumpingOnTheClouds.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\JumpingOnTheClouds\\JumpingOnTheClouds.csproj"
             },
+            "E:\\Projects\\hackerrank_samples\\Sockmerchant\\Sockmerchant\\Sockmerchant\\Sockmerchant.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\Sockmerchant\\Sockmerchant\\Sockmerchant\\Sockmerchant.csproj"
+            },
             "E:\\Projects\\hackerrank_samples\\SuperReducedString\\SuperReducedString.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\SuperReducedString\\SuperReducedString.csproj"
+            },
+            "E:\\Projects\\hackerrank_samples\\TapeEquilibrium\\TapeEquilibrium.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\TapeEquilibrium\\TapeEquilibrium.csproj"
             }
           }
         }

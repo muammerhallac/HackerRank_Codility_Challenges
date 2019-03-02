@@ -14,13 +14,17 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BinaryGaps\BinaryGaps.csproj" />
+    <ProjectReference Include="..\CompareTriplets\CompareTriplets\CompareTriplets.csproj" />
     <ProjectReference Include="..\CountingValley\CountingValley.csproj" />
     <ProjectReference Include="..\CyclicRotation\CyclicRotation.csproj" />
+    <ProjectReference Include="..\DictionariesAndMaps\DictionariesAndMaps.csproj" />
     <ProjectReference Include="..\FindOddNumber\FindOddNumber.csproj" />
     <ProjectReference Include="..\FormingAMagicSquare\FormingAMagicSquare.csproj" />
     <ProjectReference Include="..\GeneratePrimes\GeneratePrimes.csproj" />
     <ProjectReference Include="..\JumpingOnTheClouds\JumpingOnTheClouds.csproj" />
+    <ProjectReference Include="..\Sockmerchant\Sockmerchant\Sockmerchant\Sockmerchant.csproj" />
     <ProjectReference Include="..\SuperReducedString\SuperReducedString.csproj" />
+    <ProjectReference Include="..\TapeEquilibrium\TapeEquilibrium.csproj" />
   </ItemGroup>
 
 </Project>

@@ -31,3 +31,11 @@ E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\FormingAMag
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\FormingAMagicSquare.pdb
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\CyclicRotation.dll
 E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\CyclicRotation.pdb
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\CompareTriplets.dll
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\DictionariesAndMaps.dll
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\Sockmerchant.dll
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\CompareTriplets.pdb
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\DictionariesAndMaps.pdb
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\Sockmerchant.pdb
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\TapeEquilibrium.dll
+E:\Projects\hackerrank_samples\FunctionTests\bin\Debug\netcoreapp2.1\TapeEquilibrium.pdb
