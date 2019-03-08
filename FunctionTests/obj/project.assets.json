@@ -1656,6 +1656,16 @@
           "bin/placeholder/BinaryGaps.dll": {}
         }
       },
+      "Challenges/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Challenges.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Challenges.dll": {}
+        }
+      },
       "CompareTriplets/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -5887,6 +5897,11 @@
       "path": "../BinaryGaps/BinaryGaps.csproj",
       "msbuildProject": "../BinaryGaps/BinaryGaps.csproj"
     },
+    "Challenges/1.0.0": {
+      "type": "project",
+      "path": "../Challenges/Challenges.csproj",
+      "msbuildProject": "../Challenges/Challenges.csproj"
+    },
     "CompareTriplets/1.0.0": {
       "type": "project",
       "path": "../CompareTriplets/CompareTriplets/CompareTriplets.csproj",
@@ -5956,6 +5971,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "BinaryGaps >= 1.0.0",
+      "Challenges >= 1.0.0",
       "CompareTriplets >= 1.0.0",
       "CountingValley >= 1.0.0",
       "CyclicRotation >= 1.0.0",
@@ -6007,6 +6023,9 @@
           "projectReferences": {
             "E:\\Projects\\hackerrank_samples\\BinaryGaps\\BinaryGaps.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\BinaryGaps\\BinaryGaps.csproj"
+            },
+            "E:\\Projects\\hackerrank_samples\\Challenges\\Challenges.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\Challenges\\Challenges.csproj"
             },
             "E:\\Projects\\hackerrank_samples\\CompareTriplets\\CompareTriplets\\CompareTriplets.csproj": {
               "projectPath": "E:\\Projects\\hackerrank_samples\\CompareTriplets\\CompareTriplets\\CompareTriplets.csproj"

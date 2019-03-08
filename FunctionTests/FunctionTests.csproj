@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BinaryGaps\BinaryGaps.csproj" />
+    <ProjectReference Include="..\Challenges\Challenges.csproj" />
     <ProjectReference Include="..\CompareTriplets\CompareTriplets\CompareTriplets.csproj" />
     <ProjectReference Include="..\CountingValley\CountingValley.csproj" />
     <ProjectReference Include="..\CyclicRotation\CyclicRotation.csproj" />
