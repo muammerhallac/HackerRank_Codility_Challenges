@@ -54,5 +54,12 @@ namespace Challenges
 
             return alternatedStrings.Max(x => x.Length);
         }
+
+        public static int Enumerate()
+        {
+            IReadOnlyCollection<string> list = new List<string> { "string1", "string2" };
+            var listCount = list.Count;
+            return listCount;
+        }
     }
 }
