@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using JumpingOnTheClouds;
 
-namespace Tests
+namespace FunctionTests
 {
     public class JumpingCloudTests
     {
