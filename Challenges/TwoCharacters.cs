@@ -57,9 +57,15 @@ namespace Challenges
 
         public static int Enumerate()
         {
+
             IReadOnlyCollection<string> list = new List<string> { "string1", "string2" };
             var listCount = list.Count;
             return listCount;
+        }
+
+        public virtual int Asas()
+        {
+            return 1;
         }
     }
 }
