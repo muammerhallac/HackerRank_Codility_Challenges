@@ -8,6 +8,7 @@ namespace Challenges
     public static class PassingCars
     {
         public static int CountCars(int[] A)
+              
         {
             if (!A.Any())
                 return -1;

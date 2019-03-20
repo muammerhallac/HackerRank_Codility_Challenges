@@ -6002,11 +6002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Projects\\hackerrank_samples\\FunctionTests\\FunctionTests.csproj",
+      "projectUniqueName": "E:\\Projects\\hackerrank_samples\\FunctionTests\\FunctionTests.csproj",
       "projectName": "FunctionTests",
-      "projectPath": "e:\\Projects\\hackerrank_samples\\FunctionTests\\FunctionTests.csproj",
+      "projectPath": "E:\\Projects\\hackerrank_samples\\FunctionTests\\FunctionTests.csproj",
       "packagesPath": "C:\\Users\\muammer.hallac\\.nuget\\packages\\",
-      "outputPath": "e:\\Projects\\hackerrank_samples\\FunctionTests\\obj\\",
+      "outputPath": "E:\\Projects\\hackerrank_samples\\FunctionTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6025,50 +6025,50 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "e:\\Projects\\hackerrank_samples\\BinaryGaps\\BinaryGaps.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\BinaryGaps\\BinaryGaps.csproj"
+            "E:\\Projects\\hackerrank_samples\\BinaryGaps\\BinaryGaps.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\BinaryGaps\\BinaryGaps.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\Challenges\\Challenges.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\Challenges\\Challenges.csproj"
+            "E:\\Projects\\hackerrank_samples\\Challenges\\Challenges.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\Challenges\\Challenges.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\CompareTriplets\\CompareTriplets\\CompareTriplets.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\CompareTriplets\\CompareTriplets\\CompareTriplets.csproj"
+            "E:\\Projects\\hackerrank_samples\\CompareTriplets\\CompareTriplets\\CompareTriplets.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\CompareTriplets\\CompareTriplets\\CompareTriplets.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\CountingValley\\CountingValley.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\CountingValley\\CountingValley.csproj"
+            "E:\\Projects\\hackerrank_samples\\CountingValley\\CountingValley.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\CountingValley\\CountingValley.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\CyclicRotation\\CyclicRotation.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\CyclicRotation\\CyclicRotation.csproj"
+            "E:\\Projects\\hackerrank_samples\\CyclicRotation\\CyclicRotation.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\CyclicRotation\\CyclicRotation.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\DictionariesAndMaps\\DictionariesAndMaps.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\DictionariesAndMaps\\DictionariesAndMaps.csproj"
+            "E:\\Projects\\hackerrank_samples\\DictionariesAndMaps\\DictionariesAndMaps.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\DictionariesAndMaps\\DictionariesAndMaps.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj"
+            "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\FindOddNumber\\FindOddNumber.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\FormingAMagicSquare\\FormingAMagicSquare.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\FormingAMagicSquare\\FormingAMagicSquare.csproj"
+            "E:\\Projects\\hackerrank_samples\\FormingAMagicSquare\\FormingAMagicSquare.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\FormingAMagicSquare\\FormingAMagicSquare.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\GeneratePrimes\\GeneratePrimes.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\GeneratePrimes\\GeneratePrimes.csproj"
+            "E:\\Projects\\hackerrank_samples\\GeneratePrimes\\GeneratePrimes.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\GeneratePrimes\\GeneratePrimes.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\JumpingOnTheClouds\\JumpingOnTheClouds.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\JumpingOnTheClouds\\JumpingOnTheClouds.csproj"
+            "E:\\Projects\\hackerrank_samples\\JumpingOnTheClouds\\JumpingOnTheClouds.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\JumpingOnTheClouds\\JumpingOnTheClouds.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\MissingInteger\\MissingInteger.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\MissingInteger\\MissingInteger.csproj"
+            "E:\\Projects\\hackerrank_samples\\MissingInteger\\MissingInteger.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\MissingInteger\\MissingInteger.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\PermCheck\\PermCheck.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\PermCheck\\PermCheck.csproj"
+            "E:\\Projects\\hackerrank_samples\\PermCheck\\PermCheck.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\PermCheck\\PermCheck.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\Sockmerchant\\Sockmerchant\\Sockmerchant\\Sockmerchant.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\Sockmerchant\\Sockmerchant\\Sockmerchant\\Sockmerchant.csproj"
+            "E:\\Projects\\hackerrank_samples\\Sockmerchant\\Sockmerchant\\Sockmerchant\\Sockmerchant.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\Sockmerchant\\Sockmerchant\\Sockmerchant\\Sockmerchant.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\SuperReducedString\\SuperReducedString.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\SuperReducedString\\SuperReducedString.csproj"
+            "E:\\Projects\\hackerrank_samples\\SuperReducedString\\SuperReducedString.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\SuperReducedString\\SuperReducedString.csproj"
             },
-            "e:\\Projects\\hackerrank_samples\\TapeEquilibrium\\TapeEquilibrium.csproj": {
-              "projectPath": "e:\\Projects\\hackerrank_samples\\TapeEquilibrium\\TapeEquilibrium.csproj"
+            "E:\\Projects\\hackerrank_samples\\TapeEquilibrium\\TapeEquilibrium.csproj": {
+              "projectPath": "E:\\Projects\\hackerrank_samples\\TapeEquilibrium\\TapeEquilibrium.csproj"
             }
           }
         }
