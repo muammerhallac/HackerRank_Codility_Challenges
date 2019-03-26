@@ -9,7 +9,7 @@ namespace FunctionTests
     public class SuffixPrefixTests
     {
         [Test]
-        [TestCase("abbabba", 7)]
+        [TestCase("abbabba", 4)]
         public void CalculateSuffixPrefix_WhenCalled_ShouldReturnDesiredResult(string S, int desiredResult)
         {
             var result = Challenges.SuffixPrefix.CalculateString(S);
