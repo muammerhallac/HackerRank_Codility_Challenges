@@ -3,7 +3,6 @@ E:\Projects\hackerrank_samples\FindOddNumber\bin\Debug\netcoreapp2.1\FindOddNumb
 E:\Projects\hackerrank_samples\FindOddNumber\bin\Debug\netcoreapp2.1\FindOddNumber.runtimeconfig.dev.json
 E:\Projects\hackerrank_samples\FindOddNumber\bin\Debug\netcoreapp2.1\FindOddNumber.dll
 E:\Projects\hackerrank_samples\FindOddNumber\bin\Debug\netcoreapp2.1\FindOddNumber.pdb
-E:\Projects\hackerrank_samples\FindOddNumber\obj\Debug\netcoreapp2.1\FindOddNumber.csprojAssemblyReference.cache
 E:\Projects\hackerrank_samples\FindOddNumber\obj\Debug\netcoreapp2.1\FindOddNumber.csproj.CoreCompileInputs.cache
 E:\Projects\hackerrank_samples\FindOddNumber\obj\Debug\netcoreapp2.1\FindOddNumber.AssemblyInfoInputs.cache
 E:\Projects\hackerrank_samples\FindOddNumber\obj\Debug\netcoreapp2.1\FindOddNumber.AssemblyInfo.cs

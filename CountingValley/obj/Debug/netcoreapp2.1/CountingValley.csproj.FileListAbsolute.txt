@@ -8,4 +8,3 @@ E:\Projects\hackerrank_samples\CountingValley\obj\Debug\netcoreapp2.1\CountingVa
 E:\Projects\hackerrank_samples\CountingValley\obj\Debug\netcoreapp2.1\CountingValley.AssemblyInfo.cs
 E:\Projects\hackerrank_samples\CountingValley\obj\Debug\netcoreapp2.1\CountingValley.dll
 E:\Projects\hackerrank_samples\CountingValley\obj\Debug\netcoreapp2.1\CountingValley.pdb
-E:\Projects\hackerrank_samples\CountingValley\obj\Debug\netcoreapp2.1\CountingValley.csprojAssemblyReference.cache

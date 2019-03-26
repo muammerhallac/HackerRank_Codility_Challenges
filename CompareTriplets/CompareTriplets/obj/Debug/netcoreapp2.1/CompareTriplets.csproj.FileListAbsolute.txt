@@ -3,7 +3,6 @@ E:\Projects\hackerrank_samples\CompareTriplets\CompareTriplets\bin\Debug\netcore
 E:\Projects\hackerrank_samples\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp2.1\CompareTriplets.runtimeconfig.dev.json
 E:\Projects\hackerrank_samples\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp2.1\CompareTriplets.dll
 E:\Projects\hackerrank_samples\CompareTriplets\CompareTriplets\bin\Debug\netcoreapp2.1\CompareTriplets.pdb
-E:\Projects\hackerrank_samples\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.1\CompareTriplets.csprojAssemblyReference.cache
 E:\Projects\hackerrank_samples\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.1\CompareTriplets.csproj.CoreCompileInputs.cache
 E:\Projects\hackerrank_samples\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.1\CompareTriplets.AssemblyInfoInputs.cache
 E:\Projects\hackerrank_samples\CompareTriplets\CompareTriplets\obj\Debug\netcoreapp2.1\CompareTriplets.AssemblyInfo.cs

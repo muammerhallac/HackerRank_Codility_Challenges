@@ -3,7 +3,6 @@ E:\Projects\hackerrank_samples\BinaryGaps\bin\Debug\netcoreapp2.1\BinaryGaps.run
 E:\Projects\hackerrank_samples\BinaryGaps\bin\Debug\netcoreapp2.1\BinaryGaps.runtimeconfig.dev.json
 E:\Projects\hackerrank_samples\BinaryGaps\bin\Debug\netcoreapp2.1\BinaryGaps.dll
 E:\Projects\hackerrank_samples\BinaryGaps\bin\Debug\netcoreapp2.1\BinaryGaps.pdb
-E:\Projects\hackerrank_samples\BinaryGaps\obj\Debug\netcoreapp2.1\BinaryGaps.csprojAssemblyReference.cache
 E:\Projects\hackerrank_samples\BinaryGaps\obj\Debug\netcoreapp2.1\BinaryGaps.csproj.CoreCompileInputs.cache
 E:\Projects\hackerrank_samples\BinaryGaps\obj\Debug\netcoreapp2.1\BinaryGaps.AssemblyInfoInputs.cache
 E:\Projects\hackerrank_samples\BinaryGaps\obj\Debug\netcoreapp2.1\BinaryGaps.AssemblyInfo.cs
